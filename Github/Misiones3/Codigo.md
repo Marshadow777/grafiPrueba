@@ -92,3 +92,5 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+![Gift de la ejecución](Video_del_ojo.gif)
